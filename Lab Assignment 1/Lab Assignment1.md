@@ -1,0 +1,8 @@
+This Lab tutorial is about how to use Zenhub and Github for storing the files and their related data, issues, and code.
+
+Firstly create an account in Github and download the required OS compatible version along with the desktop version too.
+Create a new repository in the remote account and clone it to the desktop.Add a file in the local repository to commit to the remote site by pushing the complete changes.Then include Zenhub a Github plugin for agile development at the remote site to prepare the boards. We generally use these boards to assess the status, progress, and enhancement regarding the issues, questions etc. To do so initially create an issue under the Issues tab by including the Milestone, Estimate, and label. Create 5 issues for the three milestones namely Increment1, Increment2, Increment3 and create the Board for each increment by assigning the issues to different stages. Finally, create the Burndown chart for each increment under the reports to form a graph. The screenshots of each increment along with the board are included in the Documentation folder.
+
+The Documentation folder also includes a class diagram for the Hospital management system. A class diagram mainly comprises of classes, attributes and their behavior. Hospital, Patient, Person and a few are considered to be the classes and their attributes like the Name, Address, the Phone number are included. The behavior of these classes is considered by analyzing their functionality. The relationships among these classes are determined by Association, Aggregation, composition, generalization, and realization. 
+
+
