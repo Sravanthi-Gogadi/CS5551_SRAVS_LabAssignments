@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>SignIn</title>
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/fb.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <!-- Custom Stylesheet -->
+    <link rel="stylesheet" href="css/styles.css">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+
+</head>
+
+<body>
+<div class="container text-center">
+    <div class="row">
+        <div class="col-md-12 col-md-offset-1">
+            <div class="login-box">
+                <div class="box-header">
+                    <h2>SignIn</h2>
+                </div>
+                <form class="form-signin" >
+
+
+
+                    <p>
+                        <a class="btn btn-primary social-login-btn social-facebook" href="#" onclick="login()"><i class="fa fa-facebook"></i></a>
+                        <a class="btn btn-primary social-login-btn social-twitter" href="/auth/twitter"><i class="fa fa-twitter"></i></a>
+                    </p>
+                    <p>
+                        <a class="btn btn-primary social-login-btn social-linkedin" href="/auth/linkedin"><i class="fa fa-linkedin"></i></a>
+                        <a class="btn btn-primary social-login-btn social-google" href="/auth/google"><i class="fa fa-google-plus"></i></a>
+                    </p>
+
+                    <div class="btn-group social-login-more">
+                        <button type="button" class="btn btn-default dropdown-toggle btn-block" data-toggle="dropdown">
+                            More...
+                        </button>
+
+                    </div>
+                    <br><br>
+
+
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="fb-root"></div>
+<script type="text/javascript">
+    //<![CDATA[
+    window.fbAsyncInit = function() {
+        FB.init({
+            appId      : '1060743964059988', // App ID
+            channelURL : 'http://localhost:63342/facebook-javascript-sdk/ff.html?_ijt=lqf75bjik8gil0hee0cjbamel', // Channel File, not required so leave empty
+            status     : true, // check login status
+            cookie     : true, // enable cookies to allow the server to access the session
+            oauth      : true, // enable OAuth 2.0
+            xfbml      : false  // parse XFBML
+        });
+    };
+    // logs the user in the application and facebook
+    function login(){
+        FB.getLoginStatus(function(r){
+            if(r.status === 'connected'){
+                FB.api('/me', function(response) {
+
+                    var str=" : "+response.name+"";
+                    alert("HELLO" + str);
+                    window.location.href = 'index.html';
+
+                });
+            }else{
+                FB.login(function(response) {
+                    if(response.authResponse) {
+                        //if (response.perms)
+                        FB.api('/me', function(response) {
+                            var str=":"+response.name +""
+                            alert(" hello " + str);
+                            window.location.href = 'index.html';
+                        }); } else {
+                        // user is not logged in
+                    }
+                },{scope:'email'}); // which data to access from user profile
+            }
+        });
+    }
+    // Load the SDK Asynchronously
+    (function() {
+        var e = document.createElement('script'); e.async = true;
+        e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+        document.getElementById('fb-root').appendChild(e);
+    }());
+    //]]>
+</script>
+</body>
+
+
+
+</html>
