@@ -1,4 +1,4 @@
-package com.example.kamran.logingreentheme;
+package plzcm.mania.com.barcodehh;
 
 import android.content.Intent;
 import android.graphics.Typeface;
