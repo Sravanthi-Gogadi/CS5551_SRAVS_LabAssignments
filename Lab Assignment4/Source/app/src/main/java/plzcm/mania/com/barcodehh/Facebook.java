@@ -1,4 +1,4 @@
-package in.studytitorial.androidfaceboklogin;
+package com.mania.plzcm.barcodehh;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
