@@ -1,4 +1,4 @@
-package com.mania.plzcm.barcodehh;
+package plzcm.mania.com.barcodehh;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
