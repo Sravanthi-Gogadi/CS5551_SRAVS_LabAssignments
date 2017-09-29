@@ -1,4 +1,4 @@
-package com.clarifai.android.starter.api.v2.adapter;
+package com.clarifai.android.api;
 
 import android.support.annotation.NonNull;
 import android.support.v7.widget.RecyclerView;

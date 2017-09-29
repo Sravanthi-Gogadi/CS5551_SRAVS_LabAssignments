@@ -1,4 +1,4 @@
-package com.clarifai.android.starter.api.v2.activity;
+package com.clarifai.android.api;
 
 import android.content.Intent;
 import android.graphics.BitmapFactory;

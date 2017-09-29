@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/clarifai-android-starter-master.iml" filepath="$PROJECT_DIR$/clarifai-android-starter-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Source.iml" filepath="$PROJECT_DIR$/.idea/Source.iml" />
+      <module fileurl="file://C:\Users\gogadi\Documents\GitHub\CS5551_SRAVS_LabAssignments\Lab Assignment5\Source\app\app.iml" filepath="C:\Users\gogadi\Documents\GitHub\CS5551_SRAVS_LabAssignments\Lab Assignment5\Source\app\app.iml" />
+      <module fileurl="file://C:\Users\gogadi\Documents\GitHub\CS5551_SRAVS_LabAssignments\Lab Assignment5\Source\clarifai-android-starter-master.iml" filepath="C:\Users\gogadi\Documents\GitHub\CS5551_SRAVS_LabAssignments\Lab Assignment5\Source\clarifai-android-starter-master.iml" />
     </modules>
   </component>
 </project>
