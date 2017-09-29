@@ -1,4 +1,4 @@
-package com.clarifai.android.starter.api.v2;
+package com.clarifai.android.api;
 
 import android.app.Application;
 import android.support.annotation.NonNull;
