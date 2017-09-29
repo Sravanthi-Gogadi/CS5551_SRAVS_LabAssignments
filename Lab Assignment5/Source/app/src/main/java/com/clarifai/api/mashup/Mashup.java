@@ -14,7 +14,7 @@ import com.clarifai.android.starter.api.v2.R;
 import java.util.ArrayList;
 import java.util.List;
 
-public class RecognizeConceptsAdapter extends RecyclerView.Adapter<RecognizeConceptsAdapter.Holder> {
+public class Mashup extends RecyclerView.Adapter<RecognizeConceptsAdapter.Holder> {
 
   @NonNull private List<Concept> concepts = new ArrayList<>();
 

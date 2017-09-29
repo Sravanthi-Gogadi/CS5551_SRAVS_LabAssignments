@@ -32,7 +32,7 @@ import java.util.List;
 import static android.view.View.GONE;
 import static android.view.View.VISIBLE;
 
-public final class RecognizeConceptsActivity extends BaseActivity {
+public final class MainActivity extends BaseActivity {
 
   public static final int PICK_IMAGE = 100;
 
