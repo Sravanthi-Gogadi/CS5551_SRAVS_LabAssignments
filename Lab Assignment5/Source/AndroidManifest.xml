@@ -16,7 +16,7 @@
   >
 
     <activity
-        android:name=".activity.RecognizeConceptsActivity"
+        android:name=".activity.MainActivity"
     >
       <intent-filter>
         <action android:name="android.intent.action.MAIN"/>
