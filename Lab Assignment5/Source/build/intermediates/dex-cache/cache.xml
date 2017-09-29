@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\gogadi\.android\build-cache\56a1c3e998222084457218688524dea6ea89f96d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="21752cbe99942598e0b554b84e79b7c8d6f172f2">
+        <dex dex="C:\Users\gogadi\Desktop\clarifai-android-starter-master\app\build\intermediates\pre-dexed\debug\classes_1148ef419d160d1e51bf4c0e6464ff50d8e51b99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gogadi\.android\build-cache\9c881cfa5f2c90003d50e641068cebe75d890899\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\gogadi\Desktop\clarifai-android-starter-master\app\build\intermediates\pre-dexed\debug\classes_a2d27350fe6cccddedc9205aed107e5da74c06fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gogadi\.android\build-cache\67a96a4cb114472e7e7f8402f048b4b9a3fb1087\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="C:\Users\gogadi\Desktop\clarifai-android-starter-master\app\build\intermediates\pre-dexed\debug\classes_1eae890f39ff6faf361f717088b49443a0325808.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gogadi\.android\build-cache\6e4d95347df5fe65c6bbd32ca43df4c3d1bb47fa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\gogadi\Desktop\clarifai-android-starter-master\app\build\intermediates\pre-dexed\debug\classes_e4f355bda733450a0514dbc32fafe24fc6d66e32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gogadi\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\gogadi\Desktop\clarifai-android-starter-master\app\build\intermediates\pre-dexed\debug\gson-2.7_48450f8fcb7fc1e2f02834c12ccd00c198efd8cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gogadi\.android\build-cache\6e4d95347df5fe65c6bbd32ca43df4c3d1bb47fa\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\gogadi\Desktop\clarifai-android-starter-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_33da17b0057eb1c594cd117d16af8b1e0785ee86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gogadi\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.10\2ac360e8a47601a8dfd044e646f05b99d151f2e0\rxjava-1.1.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2ac360e8a47601a8dfd044e646f05b99d151f2e0">
+        <dex dex="C:\Users\gogadi\Desktop\clarifai-android-starter-master\app\build\intermediates\pre-dexed\debug\rxjava-1.1.10_fd53e4c4fd3c1b754cf5da5acb470be27c60aa6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gogadi\.android\build-cache\112b95182e87b9e02d1800dc475902295273caaa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\gogadi\Desktop\clarifai-android-starter-master\app\build\intermediates\pre-dexed\debug\classes_e4eb9ee5cfe5b5490719281b386acce9a0d322c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gogadi\.android\build-cache\f81b7f881c9849a3fb7a392ecce4980508666427\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\gogadi\Desktop\clarifai-android-starter-master\app\build\intermediates\pre-dexed\debug\classes_895cd15e59bf35b4f19823f865a1f52561eee75b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gogadi\.android\build-cache\103c3c09080f70c293e56d50731c61f2756e39d4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\gogadi\Desktop\clarifai-android-starter-master\app\build\intermediates\pre-dexed\debug\classes_e580b68804fe5567ca333296d93417d421431883.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gogadi\.android\build-cache\7397fb4435a80c4a4004cba890feafd306875c3a\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\gogadi\Desktop\clarifai-android-starter-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e014eef1cf7fcddf9f0e82446513601f65f79632.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gogadi\.android\build-cache\b56126afeaf78e4caa69fb9ff3426bb25dc7c400\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\gogadi\Desktop\clarifai-android-starter-master\app\build\intermediates\pre-dexed\debug\classes_5914cd8e629fc1281637cf45225a9fd61432cf8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gogadi\.android\build-cache\6ce1dada8be52f69793a52c0c0c8b8086f44196b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a11388058c8c82cbdb5e8646f1c37adfc7755d6">
+        <dex dex="C:\Users\gogadi\Desktop\clarifai-android-starter-master\app\build\intermediates\pre-dexed\debug\classes_7e6e39bdc63d9b81823082e193163f40baa47474.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gogadi\.android\build-cache\6b24346b525c9d2033641b1451ca95e6f2695b2b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\gogadi\Desktop\clarifai-android-starter-master\app\build\intermediates\pre-dexed\debug\classes_75edd549d92951287f03b5f09189c0d696dc29de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gogadi\.android\build-cache\5abc1e63b66551caafe3b263c923935813be576f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fba538e4a999351c076639c4febdb49c0b1897f0">
+        <dex dex="C:\Users\gogadi\Desktop\clarifai-android-starter-master\app\build\intermediates\pre-dexed\debug\classes_def3b25ca3ed833c0266af192f71b3ae73605a66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gogadi\.gradle\caches\modules-2\files-2.1\com.clarifai.clarifai-api2\core\2.2.12\924044cccc392de00d6de871ea0afb4c6a0ce843\core-2.2.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="924044cccc392de00d6de871ea0afb4c6a0ce843">
+        <dex dex="C:\Users\gogadi\Desktop\clarifai-android-starter-master\app\build\intermediates\pre-dexed\debug\core-2.2.12_2bc2b311211a9a5dd08b7bd39f256489193e7dd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gogadi\.android\build-cache\7397fb4435a80c4a4004cba890feafd306875c3a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\gogadi\Desktop\clarifai-android-starter-master\app\build\intermediates\pre-dexed\debug\classes_c91ec501d7967a3dde2b4d5c773561a30fedc55a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gogadi\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Users\gogadi\Desktop\clarifai-android-starter-master\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_7e9c0e2115df9a841f4fa6b5846babdc628c68df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gogadi\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.4.1\381fc1096ba65040d8e80ea43b2e1d9bad02345e\logging-interceptor-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="C:\Users\gogadi\Desktop\clarifai-android-starter-master\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.4.1_5d0ee5a1180c27b7ca8fc28cfd93759b61f4c962.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gogadi\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="C:\Users\gogadi\Desktop\clarifai-android-starter-master\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.4.0_8b7a7db924eedd3a0cdd9f27f43a84b8c50dc72a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gogadi\.android\build-cache\b7e68179946c88c61d8e1be784e37fe0567163f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\gogadi\Desktop\clarifai-android-starter-master\app\build\intermediates\pre-dexed\debug\classes_546841206084e8076f0f5d8c3ba79a13c905bb3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gogadi\.android\build-cache\95ac5dc435ea3c2a273125d62bee10a213d9f4b5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dcac7435781db56e25ab17c3f662227c517fc327">
+        <dex dex="C:\Users\gogadi\Desktop\clarifai-android-starter-master\app\build\intermediates\pre-dexed\debug\classes_e690b7c3e1c52b2a5c2f9600eab1669c4b57caad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gogadi\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\gogadi\Desktop\clarifai-android-starter-master\app\build\intermediates\pre-dexed\debug\okio-1.9.0_524904b04577ad84a25565ebf96a6db1794134e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gogadi\.android\build-cache\6b24346b525c9d2033641b1451ca95e6f2695b2b\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\gogadi\Desktop\clarifai-android-starter-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_fabbe6497bb220678f16453bcd116b1fea5ee4de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gogadi\.android\build-cache\ede577fcaee90a88d30155868f04143cb3818850\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15c5797fa4f75484420119aa4dc509b2047f396a">
+        <dex dex="C:\Users\gogadi\Desktop\clarifai-android-starter-master\app\build\intermediates\pre-dexed\debug\classes_edaa143eeef308576a63246e86a8eeb4afd0545c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gogadi\.android\build-cache\0709ab8ec8132e36807c4bcb9e461ba6f2eddf16\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\gogadi\Desktop\clarifai-android-starter-master\app\build\intermediates\pre-dexed\debug\classes_f7d631bece63ad39aab85f83d431fd6736c160fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gogadi\.android\build-cache\dade6bd97df9db4c9fb4c0fef523a1df854f7521\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\gogadi\Desktop\clarifai-android-starter-master\app\build\intermediates\pre-dexed\debug\classes_5add966ccdf3e3a715e483509085c861dc40daa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gogadi\.android\build-cache\103c3c09080f70c293e56d50731c61f2756e39d4\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\gogadi\Desktop\clarifai-android-starter-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a3f2acaf6b5a6333a516812ad5e953c1ee3161dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gogadi\.android\build-cache\cf2eb0a0ffdff2f7f42778086a5c1213dba2f1b8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="84c98924eff3106f306c3e233cc2e6d84744f518">
+        <dex dex="C:\Users\gogadi\Desktop\clarifai-android-starter-master\app\build\intermediates\pre-dexed\debug\classes_7460bb6c83f960ed19a0bffeb77f03076141428d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gogadi\.android\build-cache\9c881cfa5f2c90003d50e641068cebe75d890899\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\gogadi\Desktop\clarifai-android-starter-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2edd644e5be68676ea8c12057978593dc6e66375.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gogadi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\gogadi\Desktop\clarifai-android-starter-master\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_e246d7a67a6c8cac2b1d6bc083cef6ce39dc7b26.jar" />
+    </item>
+
+</items>
