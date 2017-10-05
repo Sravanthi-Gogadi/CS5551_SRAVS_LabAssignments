@@ -1,0 +1,55 @@
+<ion-header >
+  <ion-navbar color="navbarColor">
+    <ion-title align="center">Get ResSen</ion-title>
+  </ion-navbar>
+</ion-header>
+<br><br>
+<body>
+<ion-content class="card-background-page">
+  <br>
+  <ion-searchbar
+    [(ngModel)]="myInput"
+    [showCancelButton]="shouldShowCancel"
+    (ionInput)="onInput($event)"
+    (ionCancel)="onCancel($event)">
+  </ion-searchbar>
+
+  <button ion-button full>Search</button>
+
+  <ion-list>
+    <ion-item *ngFor="let details of trail">
+
+      <ion-icon ios="ios-restaurant" md="md-restaurant"></ion-icon>
+      <p>{{details.name}}</p>
+
+
+
+    </ion-item>
+  </ion-list>
+  <ion-item *ngFor="let score of trail2">
+
+    <ion-icon ios="ios-restaurant" md="md-restaurant"></ion-icon>
+    <p>{{details.name}}</p>
+
+
+
+  </ion-item>
+  </ion-list>
+
+  <h4>Sentiment Analysis</h4>
+  <input type="text" name="search" placeholder="Select Restaurant"/>
+  <button>Score</button><br><br>
+  <b>Review:{{details.review}}</b>
+  <b>Score:{{score}}</b>
+</ion-content>
+</body>
+<!--<ion-content>
+ <!-- <ion-list>
+    <ion-item *ngFor="let result of trail">
+
+
+<h2>{{result.name}}</h2>
+    </ion-item>
+  </ion-list>
+ <p>{{trail}}</p>
+</ion-content>-->
