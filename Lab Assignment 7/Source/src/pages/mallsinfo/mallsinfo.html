@@ -1,0 +1,32 @@
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>mallsinfo</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+
+
+
+
+
+  <ion-item >
+    <img src="https://maps.googleapis.com/maps/api/place/photo?maxwidth=350&photoreference={{pic.photo_reference}}&sensor=false&key=AIzaSyCXpd1MNs44B5NJ5xs2PsTDeGFjlXC8ORw">
+  </ion-item>
+  <ion-item><b>Country Club Plaza</b></ion-item>
+  <ion-item text-wrap>Address: {{mallsData.formatted_address}}</ion-item>
+  <ion-item text-wrap>Mobile No: {{mallsData.formatted_phone_number}}</ion-item>
+
+
+<ion-item>Reviews</ion-item>
+
+  <ion-item text-wrap>
+    <p> <p>
+    <img [src]="rev.profile_photo_url" width="30px" height="30px" border-radius="50%" object-fit="cover">
+     {{rev.author_name}}
+    <p><ion-icon name="star" *ngFor="let star of getArray(rev.rating)"></ion-icon></p>
+   <p> {{rev.text}}</p></ion-item>
+</ion-content>
