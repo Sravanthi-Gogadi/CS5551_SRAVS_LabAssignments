@@ -1,0 +1,65 @@
+page-home {
+  .scroll {
+    height: 100%
+  }
+
+  #map {
+    width: 0.1%;
+    height: 0.1%;
+  }
+  .background {
+    background-image: url('http://media1.santabanta.com/full5/Outdoors/Mountain/mountain-363a.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+
+  }
+
+  .scroll-content {
+    align-content: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  }
+
+  ion-card.card {
+    box-shadow: none;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+  }
+  .item {
+    margin-bottom: 1px;
+    background: rgba(242, 243, 244, 0.5);
+    border: medium none;
+  }
+
+    .text-input{
+      color: #fff;
+    }
+
+
+    .card-title {
+          color: #fff;
+    }
+
+    .card-subtitle {
+
+
+      color: #fff;
+    }
+    .ion-md-heart{
+      color: red;
+
+    }
+  .button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+}
