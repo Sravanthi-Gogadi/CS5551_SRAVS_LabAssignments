@@ -40,7 +40,7 @@ public class MainActivity extends Activity {
         b = (EditText) findViewById(R.id.editext_enterWord);
         String search = b.getText().toString();
 
-        String geturl = "https://api.foursquare.com/v2/venues/search?client_id=3PPNMTIKJJNDVYPFOBGSHHV2PR5A2P05PYHXDN2MKSKTTBSX&client_secret=0QPHT0F5RS043F4TB4KKPQSHKSAXKE5ZNOYGB5KL2MBDYAG4&v=20160215&limit=5&near="+b+"&query=restaurant" ;
+        String geturl = "https://api.foursquare.com/v2/venues/search?client_id=3PPNMTIKJJNDVYPFOBGSHHV2PR5A2P05PYHXDN2MKSKTTBSX&client_secret=0QPHT0F5RS043F4TB4KKPQSHKSAXKE5ZNOYGB5KL2MBDYAG4&v=20160215&limit=5&near="+b+"&query=shopping" ;
         //Toast.makeText(this, "get url="+getURL, Toast.LENGTH_SHORT).show();
 
         String response = null;
