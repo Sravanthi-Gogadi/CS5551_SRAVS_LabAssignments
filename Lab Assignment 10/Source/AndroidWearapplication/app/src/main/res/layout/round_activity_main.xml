@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.santosh.androidwearapplication.MainActivity"
+    tools:deviceIds="wear_round"
+    android:background="@mipmap/download">
+
+	
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editext_enterWord"
+        android:hint="Enter Food"
+        android:background="@color/black"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:padding="3dp"
+
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="19dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editext_enterWord2"
+        android:hint="Enter Location"
+        android:background="@color/black"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:padding="3dp"
+
+        android:layout_below="@+id/editext_enterWord"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp" />
+
+
+    <Button
+        android:text="Enter Search"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/searchButton"
+        android:onClick="search"
+        android:backgroundTint="@color/orange"
+        android:layout_below="@+id/editext_enterWord2"
+        android:layout_alignEnd="@+id/editext_enterWord2" />
+
+    <TextView
+        android:id="@+id/locationView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:layout_below="@id/searchButton"
+        android:layout_alignRight="@+id/editext_enterWord"
+        android:layout_toEndOf="@+id/editext_enterWord"
+        android:layout_alignStart="@+id/editext_enterWord2" />
+
+
+</RelativeLayout>

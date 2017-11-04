@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidWearapplication</string>
+    <string name="hello_round">Find nearby Restaurants</string>
+
+</resources>
